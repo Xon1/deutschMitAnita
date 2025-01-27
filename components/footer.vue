@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-gray-100 py-8">
-    <div class="mx-auto max-w-6xl px-4">
+    <div class="mx-auto max-w-7xl px-4">
       <div class="flex flex-col md:flex-row justify-between items-center">
         <div class="mb-4 md:mb-0 text-center md:text-start">
           <h3 class="text-xl font-semibold text-gray-800">German Language Teacher</h3>

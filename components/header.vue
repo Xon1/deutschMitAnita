@@ -1,6 +1,6 @@
 <template>
     <header class="bg-white border-b border-gray-300">
-      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center py-4">
           <div class="flex items-center">
             <!-- <Car class="h-8 w-8 text-blue-500 mr-2" /> -->
@@ -12,7 +12,7 @@
           <nav>
             <ul class="flex space-x-3">
               <li>
-                <NuxtLink to="/" class="text-gray-600 hover:text-green-500 px-3 py-2 rounded-md text-sm font-medium">
+                <NuxtLink to="/" class="text-gray-600 hover:text-red-700 px-3 py-2 rounded-md text-sm font-medium">
                   Home
                 </NuxtLink>
               </li>
@@ -22,7 +22,7 @@
                 </NuxtLink>
               </li> -->
               <li>
-                <NuxtLink to="/uber-mich" class="text-gray-600 hover:text-green-500 px-3 py-2 rounded-md text-sm font-medium">
+                <NuxtLink to="/uber-mich" class="text-gray-600 hover:text-red-700 px-3 py-2 rounded-md text-sm font-medium">
                   Über mich
                 </NuxtLink>
               </li>
