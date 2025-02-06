@@ -1,8 +1,8 @@
 <template>
   <div>
-    <section class="flex justify-center items-center px-4 md:px-12 mb-24 mt-24">
+    <section class="flex justify-center items-center px-4 md:px-12 mb-24 mt-12 md:mt-24">
         <div class="flex flex-col md:flex-row mx-auto max-w-7xl gap-10">
-            <div class="max-w-[400px] md:w-full items-center">
+            <div class="max-w-[400px] md:w-full items-center mx-auto">
                 <img src="/images/WhatsApp1-removebg.png" alt="Person working on a design" class="object-contain" />
             </div>
             <div class="content max-w-xl flex flex-col justify-center">
