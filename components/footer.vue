@@ -4,7 +4,12 @@
       <div class="flex flex-col md:flex-row justify-between items-center">
         <div class="mb-4 md:mb-0 text-center md:text-start">
           <h3 class="text-xl font-semibold text-gray-800">German Language Teacher</h3>
-          <p class="text-gray-600 mt-2">Helping you master the German language</p>
+          <p class="text-gray-600 mt-2">Helfen Ihnen, die deutsche Sprache zu meistern</p>
+          <div>
+            <a href="/impressum" class="hover:underline">Impressum, </a>
+            <a href="/privacy-policy" class="hover:underline">Datenschutzerklärung </a>
+          </div>
+
         </div>
         <div class="flex space-x-4">
           <a href="#" class="text-gray-600 hover:text-gray-800 transition-colors duration-300">
