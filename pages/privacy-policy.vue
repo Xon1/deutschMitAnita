@@ -59,7 +59,7 @@
       <section class="mb-6">
         <h2 class="text-xl font-semibold mb-2">8. Kontakt</h2>
         <p class="text-gray-600">
-          Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns unter folgender E-Mail-Adresse kontaktieren: <a href="mailto:deutchmitanita@gmail.com" class="text-blue-500">deutchmitanita@gmail.com</a>
+          Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns unter folgender E-Mail-Adresse kontaktieren: <a href="mailto:deutschmitanita@outlook.com" class="text-blue-500">deutschmitanita@outlook.com</a>
         </p>
       </section>
   
