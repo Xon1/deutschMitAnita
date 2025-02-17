@@ -14,10 +14,10 @@
     <div class="mb-6">
       <h2 class="text-xl font-semibold mb-2">Unternehmensinformationen</h2>
       <p class="text-gray-700">
-        "Anita Kryeziu"<br />
-        "Deutsch Lernen mit Anita"<br />
-        "Hauptstraße 12"<br />
-        "10115 Berlin, Deutschland"
+        Anita Kryeziu<br />
+        Deutsch mit Anita<br />
+        Nibelungenstraße 38,<br />
+        4070 Eferding, Österreich
       </p>
     </div>
 
@@ -26,11 +26,11 @@
       <p class="text-gray-700">
         <strong>E-Mail:</strong>
         <a
-          href="mailto:deutchmitanita@gmail.com"
+          href="mailto:deutschmitanita@outlook.com"
           class="text-blue-600 hover:underline"
-          > deutchmitanita@gmail.com</a
+          > deutschmitanita@outlook.com</a
         ><br />
-        <strong>Telefon:</strong> +49 123 456789
+        <!-- <strong>Telefon:</strong> +49 123 456789 -->
       </p>
     </div>
 
@@ -46,8 +46,6 @@
       <h2 class="text-xl font-semibold mb-2">Verantwortlich für den Inhalt</h2>
       <p class="text-gray-700">
         Anita Kryeziu<br />
-        Hauptstraße 12<br />
-        10115 Berlin, Deutschland
       </p>
     </div>
 
