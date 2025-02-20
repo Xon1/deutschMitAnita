@@ -153,12 +153,28 @@
               </li>
             </ul>
           </div>
+        </div> 
+        <div class="flex flex-col sm:flex-row justify-center w-full pt-24">
+          <button @click="redirectToWhatsApp"
+            class="rounded-lg border border-black px-8 py-3 md:py-4 text-black hover:bg-black hover:text-white text-center inline-block" >
+              Kontaktiere mich →
+          </button>
         </div>
       </div>
     </section>
+   
   </div>
 </template>
 
 <script setup>
 import { Instagram, Youtube } from "lucide-vue-next";
+
+const redirectToWhatsApp = () => {
+  const phoneNumber = "+436607094063";
+  const message = encodeURIComponent(
+    "Ich möchte mehr über die Deutschkurse wissen."
+  );
+  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
+  window.open(whatsappUrl, "_blank");
+};
 </script>
