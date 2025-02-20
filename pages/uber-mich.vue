@@ -39,9 +39,7 @@
             <h1 class="text-lg font-semibold text-gray-700">
               Deine Sprachtrainerin,
             </h1>
-            <h1 class="text-lg font-semibold text-gray-700">
-              Anita
-            </h1>
+            <h1 class="text-lg font-semibold text-gray-700">Anita</h1>
             <!-- <div class="flex gap-4">
                         <a href="#" class="text-gray-700 text-xl hover:text-red-700">
                             <Instagram class="h-7 w-7 mr-2" />
@@ -66,10 +64,10 @@
             </h2>
             <ul class="space-y-4 text-gray-700">
               <li>
-                <span class="font-medium">Für wen:</span> Dieser Kurs ist für
+                <span class="font-medium">Für wen:</span>Dieser Kurs ist für
                 alle, die ihre Grammatikkenntnisse verbessern und aktiv anwenden
                 möchten. Wenn du A1 oder A2 gelernt hast und deine Sätze besser
-                verstehen und richtig sprechen möchtest, bist du hier richtig!
+                bilden und richtig sprechen möchtest, bist du hier richtig!
               </li>
               <li>
                 <span class="font-medium">Was machen wir:</span>
@@ -114,8 +112,8 @@
               <li>
                 <span class="font-medium">Für wen: </span> Dieser Kurs ist für
                 Frauen, die individuell und in ihrem eigenen Tempo lernen
-                möchten. Er ist auch ideal für Prüfungsvorbereitung (A1,
-                A2, B1) oder für alle, die ihre Deutschkenntnisse in bestimmten
+                möchten. Er ist auch ideal für Prüfungsvorbereitung (A1, A2, B1)
+                oder für alle, die ihre Deutschkenntnisse in bestimmten
                 Bereichen verbessern wollen.
               </li>
               <li>
